@@ -12,3 +12,11 @@ Em ordem de preferencia
 Incremeto ++
 Decremeto --
 */
+
+const num1 = 10;
+const num2 = parseInt('10')
+const string = '1'
+
+console.log(num1, num2)
+
+
